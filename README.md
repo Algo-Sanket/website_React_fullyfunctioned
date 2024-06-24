@@ -18,7 +18,7 @@ Don't forget to :star: the repo if you like it :blush:
 ![img 6](img/6.png)
 ![img 7](img/7.png)
 ![img 8](img/8.png)
-![img 9](img/9.png)
+
 
 </div>
 
